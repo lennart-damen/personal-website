@@ -18,9 +18,9 @@ markup:
 
 menu:
   main:
-    - name: Blogs
-      pageRef: /blogs
-      weight: 1
+    # - name: Blogs
+    #   pageRef: /blogs
+    #   weight: 1
     - name: Drawings
       pageRef: /drawings
       weight: 1
